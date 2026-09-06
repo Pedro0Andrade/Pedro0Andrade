@@ -42,7 +42,7 @@ I care about clear interfaces, maintainable code, accessible experiences, and le
 | Project | What I built | Link |
 | --- | --- | --- |
 | AeroVision Control | My first full web project: a React and TypeScript control panel for a technology fair, with a local computer-vision flow, webcam support, a live HUD, spectator mode, accessibility, and automated tests. | [Source code](https://github.com/Pedro0Andrade/AeroVision-Control) |
-| DoomALG / DoomALG++ | University group project inspired by DOOM, created with Marcell Resende and Davi Augusto. The official version runs in VisuALG; an additional Python runtime expands it with terminal rendering and 2.5D raycasting. | [Group project](https://github.com/MarcellResende/DOOM_TRABALHO_FACULDADE) |
+| DoomALG / DoomALG++ | University group project inspired by DOOM, created with Marcell Resende and Davi Augusto. The official version runs in VisuALG; an additional Python runtime expands it with terminal rendering and 2.5D raycasting. | [My collaborative fork](https://github.com/Pedro0Andrade/DOOM_TRABALHO_FACULDADE) |
 
 ## GitHub activity
 

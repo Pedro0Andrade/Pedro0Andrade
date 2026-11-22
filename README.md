@@ -37,7 +37,7 @@ I care about clear interfaces, maintainable code, accessible experiences, and le
 ![C%23](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=512BD4)
 ![Unity](https://img.shields.io/badge/Unity-111827?style=flat-square&logo=unity&logoColor=FFFFFF)
 ![.NET](https://shields.io)
-![C](https://shields.io)
+![C](https://shields.io+)
 
 
 ## Projects
